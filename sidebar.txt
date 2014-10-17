@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sau:home|Door43 (sau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sau|d43-sau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sau/archive/master.zip|d43-sau.zip]]
+
+**Recent Changes**
+{{changes>ns = sau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sau|Ethnologue data]]
+
